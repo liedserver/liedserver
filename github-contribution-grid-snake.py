@@ -13,4 +13,5 @@ def generate_image(width, height, date):
     img = img.resize((width * 10, height * 10), resample=Image.NEAREST)
     img.save('snake.gif', optimize=True, quality=95)
 
-generate_image(52, 7, '2021-03-08')
+generate_image(52, 7, '2022-03-09')
+
