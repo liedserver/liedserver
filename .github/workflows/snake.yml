@@ -26,3 +26,4 @@ jobs:
         with:
           name: snake-gif
           path: ./snake.gif
+
