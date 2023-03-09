@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liedserver&layout=compact)](https://github.com/liedserver/github-readme-stats)
 
-<h3>💻 GitHub Profile Stats</h3>
+<h3>💻 Github Status</h3>
 
-  [![Liedserver GitHub stats](https://github-readme-stats.vercel.app/api?username=liedserver)](https://github.com/liedserver/github-readme-stats)
+![Liedserver's GitHub stats](https://github-readme-stats.vercel.app/api?username=liedserver&hide=contribs,prs)
 
