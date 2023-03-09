@@ -8,4 +8,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liedserver&layout=compact)](https://github.com/liedserver/github-readme-stats)
 
 
-![Snake animation](https://github.com/liedserver/liedserver/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/liedserver/liedserver/blob/output/github-contribution-grid-snake.gif)
