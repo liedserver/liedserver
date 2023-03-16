@@ -32,17 +32,3 @@
 <h3>💻 Github Status</h3>
 
 [![Status do liedserver no GitHub](https://github-readme-stats.vercel.app/api?username=liedserver&show_icons=true&theme=radical)](https://github.com/liedserver)
-
-
-
-
-    
-    
-    
-
-
-
-
-
-
-
