@@ -34,22 +34,6 @@
 [![Status do liedserver no GitHub](https://github-readme-stats.vercel.app/api?username=liedserver&show_icons=true&theme=radical)](https://github.com/liedserver)
 
 
-<h2>MyAnimeList Stats:</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Anime%20Watched-10-blueviolet?style=flat-square" alt="Anime Watched" />
-  <br />
-  <img src="https://img.shields.io/badge/Death%20Note-37%20episodes-green?style=flat-square" alt="Death Note" />
-  <img src="https://img.shields.io/badge/Attack%20on%20Titan-25%20episodes-green?style=flat-square" alt="Attack on Titan" />
-  <img src="https://img.shields.io/badge/One%20Punch%20Man-12%20episodes-green?style=flat-square" alt="One Punch Man" />
-  <img src="https://img.shields.io/badge/Naruto-220%20episodes-green?style=flat-square" alt="Naruto" />
-  <img src="https://img.shields.io/badge/Sword%20Art%20Online-25%20episodes-green?style=flat-square" alt="Sword Art Online" />
-  <img src="https://img.shields.io/badge/Fullmetal%20Alchemist%20Brotherhood-64%20episodes-green?style=flat-square" alt="Fullmetal Alchemist Brotherhood" />
-  <img src="https://img.shields.io/badge/Code%20Geass-50%20episodes-green?style=flat-square" alt="Code Geass" />
-  <img src="https://img.shields.io/badge/Hunter%20x%20Hunter-148%20episodes-green?style=flat-square" alt="Hunter x Hunter" />
-  <img src="https://img.shields.io/badge/My%20Hero%20Academia-13%20episodes-green?style=flat-square" alt="My Hero Academia" />
-  <img src="https://img.shields.io/badge/Steins%3BGate-24%20episodes-green?style=flat-square" alt="Steins;Gate" />
-</p>
-
 
 
     
