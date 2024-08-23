@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bem+vindo+ao+meu+repositorio" alt="Typing SVG" /></a>
 
-## Olá! Eu sou o liedserver e este é o meu repositório no GitHub. Aqui está um resumo das minhas informações:
+## Olá! Aqui está um resumo das minhas informações:
 
   🔭 Atualmente estou trabalhando em projetos pessoais usando as seguintes linguagens: 
 <p align="center">
@@ -14,16 +14,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
 </p>
-  
-  🌱 Atualmente estou aprendendo sobre machine learning e inteligência artificial.
-  
-  👯 Estou procurando colaborar em projetos open source relacionados a web development.
-  
-  💬 Pergunte-me sobre qualquer coisa relacionada a tecnologia ou desenvolvimento web.
- 
-  📫 Como entrar em contato comigo: chat
-  
-  ⚡ Curiosidade: Eu também gosto de jogos e filmes de ficção científica!
 
 <h3>💻 Linguagens Mais Utilizadas</h3>
 
