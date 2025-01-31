@@ -11,7 +11,7 @@
     <th width="50%">
       <ul align="left">
         <li>🌱 Atualmente focado em aprender AWS e Kubernetes</li>
-        <li>📫 Como entrar em contato comigo:: liedsonpan010@gmail.com</li>
+        <li>📫 Como entrar em contato comigo: liedsonpan010@gmail.com</li>
         <li>🏅 Veja minhas <a href="https://www.credly.com/users/liedson-pan">badges</a> 👈</li>
         <li>🧰 Ferramentas : Linux • Bash Script • Ansible • Terraform</li>
         <li>☁️ Clouds : Openstack • Proxmox • Docker • Kubernetes</li>
